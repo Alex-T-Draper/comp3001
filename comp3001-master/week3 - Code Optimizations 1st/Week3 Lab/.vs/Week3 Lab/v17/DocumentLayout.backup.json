@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atrzcinski-draper\\Documents\\GitHub\\comp3001\\comp3001-master\\week3 - Code Optimizations 1st\\Week3 Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5514E-BDFF-4300-9B88-907D57F878D0}|Week3 Lab.vcxproj|C:\\Users\\atrzcinski-draper\\Documents\\GitHub\\comp3001\\comp3001-master\\week3 - Code Optimizations 1st\\mmm.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mmm.c",
+              "DocumentMoniker": "C:\\Users\\atrzcinski-draper\\Documents\\GitHub\\comp3001\\comp3001-master\\week3 - Code Optimizations 1st\\mmm.c",
+              "RelativeDocumentMoniker": "..\\mmm.c",
+              "ToolTip": "C:\\Users\\atrzcinski-draper\\Documents\\GitHub\\comp3001\\comp3001-master\\week3 - Code Optimizations 1st\\mmm.c",
+              "RelativeToolTip": "..\\mmm.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-06T13:49:50.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -60,7 +60,7 @@ mmm_reg_blocking_8();
 clock_gettime(CLOCK_MONOTONIC, &end);	/* mark the end time */
 
 diff = BILLION * (end.tv_sec - start.tv_sec) + end.tv_nsec - start.tv_nsec;
-gflops = (double) ARITHMETICAL_OPS / (diff / TIMES); //ARITHMETICAL_OPS /(nanoseconds/TIMES)
+gflops = (double)ARITHMETICAL_OPS / ((diff / TIMES) / 1e9); //ARITHMETICAL_OPS /(nanoseconds/TIMES)
 printf("elapsed time = %llu nanoseconds\n", (long long unsigned int) diff);
 printf("elapsed time = %llu mseconds \n%f GigaFLOPS achieved\n", (long long unsigned int) diff/1000000, gflops);
 

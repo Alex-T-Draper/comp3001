@@ -13,7 +13,7 @@
 #define N 1000
 
 double A[N][N];
-//double table[7]={1.414213562373, 1.732050807569, 2.0, 2.236067977500,2.449489742783, 2.645751311065, 2.828427124746};
+double table[7]={1.414213562373, 1.732050807569, 2.0, 2.236067977500,2.449489742783, 2.645751311065, 2.828427124746};
 
 
 
@@ -31,8 +31,8 @@ start=omp_get_wtime();
         for (j=0;j<N;j++){
             A[i][j]=0.0;
           for (k=2;k<9;k++){
-              A[i][j]+=i*sqrt((double) k) + j*sqrt((double) k);
-             // A[i][j]+=i*table[k-2] + j*table[k-2];
+              //A[i][j]+=i*sqrt((double) k) + j*sqrt((double) k);
+              A[i][j]+=i*table[k-2] + j*table[k-2];
           }
         }
     }

@@ -1,0 +1,2 @@
+﻿  mmm.c
+C:\Users\atrzcinski-draper\Documents\GitHub\comp3001\comp3001-master\week3 - Code Optimizations 1st\mmm.c(13,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory
