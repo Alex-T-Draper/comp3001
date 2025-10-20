@@ -16,7 +16,7 @@
 
 #define N 128  //arrays input size
 #define TIMES 2000 //times to run
-#define TILE 16 //tile size
+#define TILE 256 //tile size
 #define ARITHMETICAL_OPS N*N*N*2
 
 //In C, all the routines must be declared
@@ -58,7 +58,7 @@ start=omp_get_wtime();
 for (int t=0;t<TIMES;t++)
 //mmm();
 mmm_reg_blocking_8();
-//mmm_tiling_bad();
+mmm_tiling_bad();
 
 
 end=omp_get_wtime();

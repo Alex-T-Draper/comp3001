@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\atrzcinski-draper\\Documents\\GitHub\\comp3001\\comp3001-master\\week5 - Code Optimizations 2nd\\Labs Week 5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBAEF0E0-F0C1-4729-9D0A-E4E6DE20DE7C}|Labs Week 5.vcxproj|C:\\Users\\atrzcinski-draper\\Documents\\GitHub\\comp3001\\comp3001-master\\week5 - Code Optimizations 2nd\\flops.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DBAEF0E0-F0C1-4729-9D0A-E4E6DE20DE7C}|Labs Week 5.vcxproj|C:\\Users\\atrzcinski-draper\\Documents\\GitHub\\comp3001\\comp3001-master\\week5 - Code Optimizations 2nd\\loop_merge_VS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,14 +18,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "flops.c",
-              "DocumentMoniker": "C:\\Users\\atrzcinski-draper\\Documents\\GitHub\\comp3001\\comp3001-master\\week5 - Code Optimizations 2nd\\flops.c",
-              "RelativeDocumentMoniker": "..\\flops.c",
-              "ToolTip": "C:\\Users\\atrzcinski-draper\\Documents\\GitHub\\comp3001\\comp3001-master\\week5 - Code Optimizations 2nd\\flops.c",
-              "RelativeToolTip": "..\\flops.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-20T12:19:02.094Z",
+              "Title": "loop_merge_VS.cpp",
+              "DocumentMoniker": "C:\\Users\\atrzcinski-draper\\Documents\\GitHub\\comp3001\\comp3001-master\\week5 - Code Optimizations 2nd\\loop_merge_VS.cpp",
+              "RelativeDocumentMoniker": "..\\loop_merge_VS.cpp",
+              "ToolTip": "C:\\Users\\atrzcinski-draper\\Documents\\GitHub\\comp3001\\comp3001-master\\week5 - Code Optimizations 2nd\\loop_merge_VS.cpp",
+              "RelativeToolTip": "..\\loop_merge_VS.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T13:32:04.178Z",
               "EditorCaption": ""
             }
           ]

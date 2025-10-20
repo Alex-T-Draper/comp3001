@@ -1,0 +1,9 @@
+﻿  loop_merge_VS.cpp
+C:\Users\atrzcinski-draper\Documents\GitHub\comp3001\comp3001-master\week5 - Code Optimizations 2nd\loop_merge_VS.cpp(28,10): warning C4101: 'start_1': unreferenced local variable
+C:\Users\atrzcinski-draper\Documents\GitHub\comp3001\comp3001-master\week5 - Code Optimizations 2nd\loop_merge_VS.cpp(28,19): warning C4101: 'end_1': unreferenced local variable
+  Generating code
+  1 of 23 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Labs Week 5.vcxproj -> C:\Users\atrzcinski-draper\Documents\GitHub\comp3001\comp3001-master\week5 - Code Optimizations 2nd\Labs Week 5\x64\Release\Labs Week 5.exe

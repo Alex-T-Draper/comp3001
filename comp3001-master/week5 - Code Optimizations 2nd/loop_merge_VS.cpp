@@ -35,7 +35,7 @@ int main() {
 	//			because other processes run at the same time too, preempting our thread
 	for (int t = 0; t < 20; t++) {
 
-		no_loop_merge();
+		//no_loop_merge();
 	}
 
 	
